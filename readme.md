@@ -6,6 +6,15 @@ It reads PDFs and integrate them in a Chroma database.
 For now, the documentation used is only a CV but other files can be added.
 
 ### User Guide
+#### Prerequisites
+Get the embeddings and LLM models :
+- Install [Ollama](https://ollama.com/)
+- In Ollama terminal, load the embedding model with "ollama pull nomic-embed-text"
+- In Ollama terminal, load the LLM model with "ollama pull mistral"
+
+Install the relevant python libraries :
+> pip install -r requirements
+
 #### Start the application
  > python manage.py runserver
 
