@@ -24,10 +24,10 @@ Go to *http://127.0.0.1:8000/*
 - Send the query "Clear" to the chatbot
 
 ## Functionalities
-[x] Send a query  
-[x] Receive an answer based on the information stored in the database  
-[x] Populate the database  
-[x] Clear the database  
+- [x] Send a query  
+- [x] Receive an answer based on the information stored in the database  
+- [x] Populate the database  
+- [x] Clear the database  
 
 ## Sources
 - Video : ["Python RAG Tutorial (with Local LLMs): AI For Your PDFs"](https://www.youtube.com/watch?v=2TJxpyO3ei4)
